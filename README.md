@@ -4,12 +4,12 @@
   <p>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=100&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!" alt="Typing SVG" /></a>
     <br/>
-    도전하고 성장하는 <b>서지원</b>입니다.
+    프론트엔드 개발자 <b>서지원</b>입니다.
   </p>
   <br/>
   
   <h3>:e-mail: Contacts</h3>
-  sschong48@naver.com
+  <img src="https://img.shields.io/badge/sschong48@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
   <br/><br/>
   
   <h3>:wrench: Tech Stack</h3>
@@ -20,3 +20,5 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
   
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FFDA33&height=150&section=footer)
