@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFDA33&height=300&section=header&text=Welcome&desc=jiwon's%20GitHub%20Profile&descAlignY=62&fontSize=70&fontColor=ffffff&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFDA33&height=300&section=header&text=Welcome&desc=jiwon's%20GitHub%20Profile&descAlignY=62&fontSize=65&fontColor=ffffff&animation=scaleIn)
 
 <div align='center'>
   <p>
@@ -18,6 +18,10 @@
   <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=seo-jiwon&show_icons=true&theme=flag-india">
   
 </div>
 
